@@ -1,2 +1,2 @@
 # bingsharp
-Downloads the daily big wallpaper
+Downloads the daily bing wallpaper
